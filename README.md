@@ -3,9 +3,10 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Isabelly Layssa Santos Araujo
+- Matricula: 894520
 
 ## Print da tela da página criada (Curriculum Vitae)
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
+![alt text](<images/Captura de tela 2025-08-14 174738.png>)
